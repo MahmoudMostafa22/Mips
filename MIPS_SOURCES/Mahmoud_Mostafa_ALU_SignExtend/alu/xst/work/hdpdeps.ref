@@ -1,0 +1,6 @@
+V3 3
+FL D:/mahmo/alu/ALU4Bit.vhd 2022/02/28.11:43:03 P.20131013
+EN work/ALU4Bit 1646041385 FL D:/mahmo/alu/ALU4Bit.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU4Bit/Behavioral 1646041386 \
+      FL D:/mahmo/alu/ALU4Bit.vhd EN work/ALU4Bit 1646041385

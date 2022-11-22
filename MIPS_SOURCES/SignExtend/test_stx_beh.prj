@@ -1,0 +1,2 @@
+vhdl isim_temp "SignExtend32Bit.vhd"
+vhdl isim_temp "test.vhd"

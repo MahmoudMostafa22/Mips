@@ -1,0 +1,6 @@
+V3 3
+FL D:/svdfsg/ShiftLeft2Bit/ShiftLeft.vhd 2022/04/04.11:07:07 P.20131013
+EN work/ShiftLeft 1649063233 FL D:/svdfsg/ShiftLeft2Bit/ShiftLeft.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ShiftLeft/Behavioral 1649063234 \
+      FL D:/svdfsg/ShiftLeft2Bit/ShiftLeft.vhd EN work/ShiftLeft 1649063233

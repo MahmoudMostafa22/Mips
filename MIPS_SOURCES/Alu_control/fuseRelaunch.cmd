@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Documents/Year 3/Term 6/Xilinx Programs/Week 2/Alu_control/Test_isim_beh.exe" -prj "D:/Documents/Year 3/Term 6/Xilinx Programs/Week 2/Alu_control/Test_beh.prj" "work.Test" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/TESTMIPS_isim_beh.exe" -prj "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/TESTMIPS_beh.prj" "work.TESTMIPS" 

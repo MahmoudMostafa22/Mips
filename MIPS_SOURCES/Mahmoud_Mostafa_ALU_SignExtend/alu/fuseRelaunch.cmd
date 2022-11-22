@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/Xilinux/mahmo/alu/TESTTEST_isim_beh.exe" -prj "F:/Xilinux/mahmo/alu/TESTTEST_beh.prj" "work.TESTTEST" 

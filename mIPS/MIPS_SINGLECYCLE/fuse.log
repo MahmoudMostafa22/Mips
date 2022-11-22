@@ -1,0 +1,48 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/TESTMIPS_isim_beh.exe" -prj "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/TESTMIPS_beh.prj" "work.TESTMIPS" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/ShiftLeft2Bit/ShiftLeft.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/PC/PCCounter.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Mux_5BIT/MUX_5.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Mux_32BIT/Mux2_1.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Mahmoud_Mostafa_ALU_SignExtend/SignExtend/SignExtend32Bit.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Mahmoud_Mostafa_ALU_SignExtend/alu/ALU4Bit.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Mahmoud_Mastafa_ControlUnit/ALU_Control/Control.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/MahmoudMostafa_Register/Reg/Register.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/MahmoudMostafa_memUnit/MemoryUnit.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/InstructionMemory/InstMem.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Alu_control/ALU_Control.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Adder2/Adder4Bit.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/../../MIPS_SOURCES/Adder/Adder32Bit.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/PROJECT_MIPS.vhd" into library work
+Parsing VHDL file "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/TESTMIPS.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity Adder32Bit [adder32bit_default]
+Compiling architecture behavioral of entity Adder4Bit [adder4bit_default]
+Compiling architecture behavioral of entity Mux2_1 [mux2_1_default]
+Compiling architecture behavioral of entity InstMem [instmem_default]
+Compiling architecture behavioral of entity SignExtend32Bit [signextend32bit_default]
+Compiling architecture behavioral of entity MUX_5 [mux_5_default]
+Compiling architecture behavioral of entity RegisterFile [registerfile_default]
+Compiling architecture behavioral of entity ALU_Control [alu_control_default]
+Compiling architecture behavioral of entity ALU4Bit [alu4bit_default]
+Compiling architecture behavioral of entity MemoryUnit [memoryunit_default]
+Compiling architecture behavioral of entity Control [control_default]
+Compiling architecture behavioral of entity ShiftLeft [shiftleft_default]
+Compiling architecture behavioral of entity PCCounter [pccounter_default]
+Compiling architecture behavioral of entity PROJECT_MIPS [project_mips_default]
+Compiling architecture behavior of entity testmips
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 34 VHDL Units
+Built simulation executable D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_19102461_2021/mIPS/MIPS_SINGLECYCLE/TESTMIPS_isim_beh.exe
+Fuse Memory Usage: 38192 KB
+Fuse CPU Usage: 453 ms

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/svdfsg/ShiftLeft2Bit/ShiftLeft.xst" -ofn "D:/svdfsg/ShiftLeft2Bit/ShiftLeft.syr" 

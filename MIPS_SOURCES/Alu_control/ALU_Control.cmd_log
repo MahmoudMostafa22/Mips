@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Week 2/Alu_control/ALU_Control.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Week 2/Alu_control/ALU_Control.syr" 
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Week 2/Alu_control/ALU_Control.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Week 2/Alu_control/ALU_Control.syr" 

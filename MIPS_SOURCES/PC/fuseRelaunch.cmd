@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/PC/testtest_isim_beh.exe" -prj "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/PC/testtest_beh.prj" "work.testtest" 

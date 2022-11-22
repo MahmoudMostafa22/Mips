@@ -1,0 +1,2 @@
+vhdl work "Adder32Bit.vhd"
+vhdl work "test.vhd"

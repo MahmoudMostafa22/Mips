@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/MahmoudMostafa_Register/Reg/RegisterFile.xst" -ofn "D:/MahmoudMostafa_Register/Reg/RegisterFile.syr" 
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_Register/Reg/RegisterFile.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_Register/Reg/RegisterFile.syr" 
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_Register/Reg/RegisterFile.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_Register/Reg/RegisterFile.syr" 
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_Register/Reg/RegisterFile.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/MahmoudMostafa_Register/Reg/RegisterFile.syr" 

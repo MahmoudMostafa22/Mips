@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/svdfsg/ShiftLeft2Bit/test_isim_beh.exe" -prj "D:/svdfsg/ShiftLeft2Bit/test_beh.prj" "work.test" 

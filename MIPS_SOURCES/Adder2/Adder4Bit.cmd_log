@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/Adder2/Adder4Bit.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/Adder2/Adder4Bit.syr" 
+xst -intstyle ise -ifn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/Adder2/Adder4Bit.xst" -ofn "D:/Documents/Year 3/Term 6/Xilinx Programs/Mips/Adder2/Adder4Bit.syr" 
